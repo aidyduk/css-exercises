@@ -1,10 +1,8 @@
-body {
+.odd {
     font-family: "Verdana", "DejaVu Sans", sans-serif;
-}
-p {
     background-color: pink;
 }
-#odd {
+.oddbig {
     font-size: 24px;
 }
 #even2{
