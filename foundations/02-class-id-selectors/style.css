@@ -1,6 +1,9 @@
 body {
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
-#odd {
+p {
     background-color: pink;
+}
+#odd {
+    font-size: 24px;
 }
