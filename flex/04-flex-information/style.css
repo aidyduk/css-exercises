@@ -15,6 +15,8 @@ img {
 
 .container-one{
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .container-two{
